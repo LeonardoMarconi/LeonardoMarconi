@@ -9,6 +9,7 @@ Apaixonado por tecnologia, desenvolvimento de software, SQL e data analitycs.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.marconi.pf@gmail.com)
 
 [![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoMarconi&show_icons=true&theme=tokyonight)](https://github.com/LeonardoMarconi)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarconi)](https://github.com/LeonardoMarconi)
 
 
