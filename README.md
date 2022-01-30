@@ -31,8 +31,8 @@ Apaixonado por tecnologia, desenvolvimento de software, SQL e data analitycs.
 
 
 ### Segue um pouco mais sobre mim :)
-🎓 Educação
-- Pós-graduação em Ciência de Dados e Big Data Analitycs pela Faculdade Metropolitana - Ribeirão Preto/SP
-- Bacharelado em Ciência da Computação pela FATECE - Pirassununga/SP
-- Técnico em Informática para Web pela ETEC Jadyr Salles - Porto Ferreira/SP
-- Técnico em Informática pela ETEC Jadyr Salles - Porto Ferreira/SP
+
+- Pós-graduado em Ciência de Dados e Big Data Analitycs pela Faculdade Metropolitana - Ribeirão Preto/SP - Concluído em Dez/2021
+- Bacharelado em Ciência da Computação pela FATECE - Pirassununga/SP - Concluído em Dez/2019
+- Técnico em Informática para Web pela ETEC Jadyr Salles - Porto Ferreira/SP - Concluído em Jun/2015
+- Técnico em Informática pela ETEC Jadyr Salles - Porto Ferreira/SP - Concluído em Jun/2013
