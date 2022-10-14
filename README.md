@@ -26,7 +26,7 @@ Apaixonado por tecnologia, desenvolvimento de software, SQL e data analitycs.
 <img alt="ReactJS" align="center"src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="NodeJS" align="center"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="Elixir" align="center"src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
-<img alt="Fedora" align="center"src="https://img.shields.io/badge/Fedora Linux-00008B?style=for-the-badge&logo=fedora&logoColor=white" />
+
 </div><br><br>
 
 
