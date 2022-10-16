@@ -13,7 +13,7 @@ Apaixonado por tecnologia, desenvolvimento de software, SQL e data analitycs.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarconi)](https://github.com/LeonardoMarconi)
 
 
-## Tecnologias que utilizo no meu dia
+## Tecnologias que uso no meu dia
 
 <div style="display: inline-block;"><br>
 <img alt="PHP" align="center"src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
