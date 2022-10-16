@@ -13,7 +13,7 @@ Apaixonado por tecnologia, desenvolvimento de software, SQL e data analitycs.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarconi)](https://github.com/LeonardoMarconi)
 
 
-## Tecnologias que uso no meu dia
+## Tecnologias que utilizo no meu dia
 
 <div style="display: inline-block;"><br>
 <img alt="PHP" align="center"src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -30,7 +30,7 @@ Apaixonado por tecnologia, desenvolvimento de software, SQL e data analitycs.
 </div><br><br>
 
 
-### Segue um pouco mais sobre mim :)
+### Segue um pouco mais sobre mim 😉
 
 - Pós-graduado em Ciência de Dados e Big Data Analitycs pela Faculdade Metropolitana - Ribeirão Preto/SP - Concluído em Dez/2021
 - Bacharelado em Ciência da Computação pela FATECE - Pirassununga/SP - Concluído em Dez/2019
