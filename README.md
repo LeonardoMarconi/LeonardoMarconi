@@ -1,6 +1,6 @@
 
 
-### Olá eu sou o Leonardo Marconi ✌️ 
+## Olá eu sou o Leonardo Marconi ✌️ 
 Apaixonado por tecnologia, desenvolvimento de software, SQL e data analitycs.
 
 [![Blog](https://img.shields.io/website?label=leonardomarconi.github.io&style=for-the-badge&url=https://leonardomarconi.github.io)](https://leonardomarconi.github.io)
@@ -8,18 +8,7 @@ Apaixonado por tecnologia, desenvolvimento de software, SQL e data analitycs.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marconi-6a700867/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.marconi.pf@gmail.com)
 
-![](https://github-readme-stats.vercel.app/api?username=LeonardoMarconi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=LeonardoMarconi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarconi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LeonardoMarconi&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=LeonardoMarconi&icon=9&color=1)](https://visitcount.itsvg.in)
-
-
-## Tecnologias que uso no meu dia
+### Tecnologias que uso no meu dia
 
 <div style="display: inline-block;"><br>
 <img alt="PHP" align="center"src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -32,8 +21,21 @@ Apaixonado por tecnologia, desenvolvimento de software, SQL e data analitycs.
 <img alt="ReactJS" align="center"src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="NodeJS" align="center"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="Elixir" align="center"src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
-
 </div><br><br>
+
+
+### Github Stats
+
+![](https://github-readme-stats.vercel.app/api?username=LeonardoMarconi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LeonardoMarconi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMarconi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+### GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=LeonardoMarconi&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=LeonardoMarconi&icon=9&color=1)](https://visitcount.itsvg.in)
 
 
 ### Segue um pouco mais sobre mim 😉
