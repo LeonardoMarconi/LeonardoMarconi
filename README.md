@@ -5,21 +5,6 @@ Um entusiasta do desenvolvimento de software apaixonado por criar soluções ino
 
 💻 Minha jornada no desenvolvimento começou com a curiosidade em entender como a tecnologia molda o mundo ao nosso redor. Ao longo dos anos, mergulhei em diversas linguagens de programação, frameworks e metodologias, permitindo-me abordar projetos de maneira versátil e eficiente. Tenho experiência em desenvolvimento web e mobile (React Native, JS, PHP, CSS, Adianti Framework), aplicações desktop (Delphi, ADVPL) , banco de dados e análise de dados (SQL, T-SQL, PowerBI), bem como com suporte a sistema TOTVS Protheus e de infraestrutura de informática (Emprego atual) o que me proporcionou criar aplicações de qualidade e robustez.
 
-🚀 Ao longo da minha carreira, tenho o privilégio de trabalhar em equipes colaborativas e multidisciplinares, onde aprendi a valorizar a comunicação clara e eficaz para garantir o sucesso de cada projeto. Acredito que a troca de conhecimentos e a contribuição mútua são essenciais para a construção de produtos excepcionais e ambientes de trabalho saudáveis.
-
-🔍 Meu interesse em novas tecnologias me mantém sempre atualizado sobre as últimas tendências do setor. Sou um defensor ávido do aprendizado contínuo e busco constantemente novas oportunidades para aprimorar minhas habilidades. Gosto de explorar novos conceitos e ferramentas, aplicando-os de forma criativa e estratégica para resolver problemas complexos.
-
-🎯 Como desenvolvedor, tenho um olhar voltado para a eficiência e a usabilidade. Sempre busco garantir que minhas soluções sejam escaláveis e fáceis de usar, colocando os usuários no centro da experiência. Além disso, sou obcecado por qualidade de código, acreditando que essas práticas são fundamentais para construir software confiável e de alto desempenho.
-
-🌱 Estou constantemente aberto a novas oportunidades de aprendizado e crescimento. Tenho interesse em trabalhar em projetos desafiadores, que me permitam expandir meu conhecimento e contribuir para o sucesso da empresa e da equipe. 
-
-💬 Convido você a explorar meu portfólio no GitHub (https://github.com/LeonardoMarconi) para conhecer alguns dos projetos nos quais tenho trabalhado. Sinta-se à vontade para entrar em contato para discutir oportunidades de colaboração, trocar ideias ou apenas para uma conversa sobre tecnologia. Vamos conectar e transformar o mundo através do código!
-
-[![Blog](https://img.shields.io/website?label=leonardomarconi.github.io&style=for-the-badge&url=https://leonardomarconi.github.io)](https://leonardomarconi.github.io)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leonardo.marconi.33)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marconi-6a700867/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.marconi.pf@gmail.com)
-
 ### Tecnologias que uso no meu dia
 
 <div style="display: inline-block;"><br>
@@ -35,6 +20,21 @@ Um entusiasta do desenvolvimento de software apaixonado por criar soluções ino
 <img alt="Elixir" align="center"src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
 </div><br><br>
 
+
+🚀 Ao longo da minha carreira, tenho o privilégio de trabalhar em equipes colaborativas e multidisciplinares, onde aprendi a valorizar a comunicação clara e eficaz para garantir o sucesso de cada projeto. Acredito que a troca de conhecimentos e a contribuição mútua são essenciais para a construção de produtos excepcionais e ambientes de trabalho saudáveis.
+
+🔍 Meu interesse em novas tecnologias me mantém sempre atualizado sobre as últimas tendências do setor. Sou um defensor ávido do aprendizado contínuo e busco constantemente novas oportunidades para aprimorar minhas habilidades. Gosto de explorar novos conceitos e ferramentas, aplicando-os de forma criativa e estratégica para resolver problemas complexos.
+
+🎯 Como desenvolvedor, tenho um olhar voltado para a eficiência e a usabilidade. Sempre busco garantir que minhas soluções sejam escaláveis e fáceis de usar, colocando os usuários no centro da experiência. Além disso, sou obcecado por qualidade de código, acreditando que essas práticas são fundamentais para construir software confiável e de alto desempenho.
+
+🌱 Estou constantemente aberto a novas oportunidades de aprendizado e crescimento. Tenho interesse em trabalhar em projetos desafiadores, que me permitam expandir meu conhecimento e contribuir para o sucesso da empresa e da equipe. 
+
+💬 Convido você a explorar meu portfólio no aqui no GitHub para conhecer alguns dos projetos nos quais tenho trabalhado. Sinta-se à vontade para entrar em contato para discutir oportunidades de colaboração, trocar ideias ou apenas para uma conversa sobre tecnologia. Vamos conectar e transformar o mundo através do código!
+
+[![Blog](https://img.shields.io/website?label=leonardomarconi.github.io&style=for-the-badge&url=https://leonardomarconi.github.io)](https://leonardomarconi.github.io)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leonardo.marconi.33)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-marconi-6a700867/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.marconi.pf@gmail.com)
 
 ### Github Stats
 
