@@ -26,7 +26,6 @@ Um entusiasta do desenvolvimento de software apaixonado por criar soluções ino
 <img alt="NodeJS" align="center"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img alt="Tailwind CSS" align="center"src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img alt="Tailwind CSS" align="center"src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-
 <img alt="Elixir" align="center"src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white" />
 <img alt="Insomnia" align="center"src="https://img.shields.io/badge/Insomnia-333333?style=for-the-badge&logo=insomina&logoColor=white" />
 
