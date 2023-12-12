@@ -1,7 +1,9 @@
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-
+<p align="left"> 
 ## 👋 Olá! Sou o Leonardo Marconi,
 Um entusiasta do desenvolvimento de software apaixonado por criar soluções inovadoras que impactam positivamente a vida das pessoas. Busco constantemente aprimorar minhas habilidades e enfrentar desafios complexos que impulsionam meu crescimento profissional.
+</p>
 
 💻 Minha jornada no desenvolvimento começou com a curiosidade em entender como a tecnologia molda o mundo ao nosso redor. Ao longo dos anos, mergulhei em diversas linguagens de programação, frameworks e metodologias, permitindo-me abordar projetos de maneira versátil e eficiente. Tenho experiência em desenvolvimento web e mobile (React Native, JS, PHP, CSS, Adianti Framework), aplicações desktop (Delphi, ADVPL) , banco de dados e análise de dados (SQL, T-SQL, PowerBI), bem como com suporte a sistema TOTVS Protheus e de infraestrutura de informática (Emprego atual) o que me proporcionou criar aplicações de qualidade e robustez.
 
