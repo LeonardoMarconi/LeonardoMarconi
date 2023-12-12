@@ -1,7 +1,7 @@
+## 👋 Olá! Sou o Leonardo Marconi,
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-## 👋 Olá! Sou o Leonardo Marconi,
 Um entusiasta do desenvolvimento de software apaixonado por criar soluções inovadoras que impactam positivamente a vida das pessoas. Busco constantemente aprimorar minhas habilidades e enfrentar desafios complexos que impulsionam meu crescimento profissional.
 </p>
 
